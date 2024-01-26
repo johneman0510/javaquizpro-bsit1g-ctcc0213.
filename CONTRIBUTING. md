@@ -1,0 +1,54 @@
+# Contributing to JavaQuiz Pro
+
+🎉 Thank you for considering contributing to JavaQuiz Pro! 🎉
+
+JavaQuiz Pro is an open-source project, and we welcome contributions from the community. Whether you're reporting a bug, proposing new features, or improving documentation, your help is appreciated.
+
+## How to Contribute
+
+1. **Fork the Repository:**
+   - Fork the JavaQuiz Pro repository to your GitHub account.
+
+2. **Clone the Repository:**
+   - Clone the forked repository to your local machine:
+     ```bash
+     git clone https://github.com/your-username/javaquizpro.git
+     ```
+
+3. **Create a Branch:**
+   - Create a new branch for your contribution:
+     ```bash
+     git checkout -b feature/your-feature
+     ```
+
+4. **Make Changes:**
+   - Implement your changes and ensure that your code follows the project's coding standards.
+
+5. **Test Your Changes:**
+   - Ensure that your changes don't introduce new bugs. Test thoroughly.
+
+6. **Commit Your Changes:**
+   - Commit your changes with a clear and descriptive commit message:
+     ```bash
+     git commit -m "Add your descriptive commit message here"
+     ```
+
+7. **Push to Your Fork:**
+   - Push your changes to your GitHub repository:
+     ```bash
+     git push origin feature/your-feature
+     ```
+
+8. **Create a Pull Request (PR):**
+   - Open a pull request from your fork to the main JavaQuiz Pro repository.
+   - Provide a clear title and description for your PR.
+
+## Code Review Process
+
+All contributions will be reviewed before merging. We appreciate constructive feedback and collaboration to improve the project.
+
+## Code of Conduct
+
+Please note that we have a Code of Conduct in place to ensure a welcoming and inclusive environment. Please review and adhere to it in all interactions related to this project.
+
+Thank you for your contribution! 🚀

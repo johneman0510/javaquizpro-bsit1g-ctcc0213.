@@ -1,0 +1,46 @@
+# Issue Template
+
+## Bug Report
+
+**Description:**
+A clear and concise description of the issue.
+
+**Steps to Reproduce:**
+1. 
+2. 
+3. 
+
+**Expected Behavior:**
+A brief explanation of what you expected to happen.
+
+**Actual Behavior:**
+A brief explanation of what actually happened.
+
+**Screenshots:**
+If applicable, add screenshots to help explain your problem.
+
+**Environment:**
+- Operating System:
+- Java Version:
+- Additional information about your setup that might be relevant.
+
+**Additional Notes:**
+Any additional information or context that may be relevant to the issue.
+
+## Feature Request
+
+**Description:**
+A clear and concise description of the new feature you are suggesting.
+
+**Rationale:**
+Explain why this feature would be beneficial.
+
+**Proposed Implementation:**
+If you have ideas on how this feature could be implemented, share them here.
+
+**Additional Context:**
+Any additional information or context that may be relevant to the feature request.
+
+---
+
+**Note:** Please ensure that you have checked the existing issues to avoid duplication.
